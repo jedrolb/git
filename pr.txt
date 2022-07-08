@@ -1,3 +1,4 @@
 help
 second line.
 druga zamiana
+new line
